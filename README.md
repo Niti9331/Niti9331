@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Nitisha Manglik</h1>
-<h3 align="center">🚀 Aspiring DevOps Engineer | Cloud | Automation | Continuous Delivery</h3>
+<h3 align="center">🚀 Aspiring DevOps Engineer | Cloud | Automation | kubernetes | Continuous Delivery</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 💡 Passionate about automating infrastructure, optimizing CI/CD pipelines, and building scalable cloud solutions.  
 🌱 Currently learning **Kubernetes, Terraform, Docker, Python, and Azure**  
 💬 Ask me about **CI/CD, Cloud Migration, Infrastructure as Code, and DevOps Practices**  
-📫 Reach me at **nitishamanglik@gmail.com**  
+📫 Reach me at **nitisha.manglik17@gmail.com**  
 🎯 Goal: To contribute to modern DevOps solutions that bridge development and operations seamlessly.  
 ⚡ Fun Fact: I love exploring new tools and automating everything possible!  
 
