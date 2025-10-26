@@ -34,7 +34,7 @@
 ---
 
 ### 👀 Profile Visitor Count
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&label=Visitors&color=0e75b6&style=flat)
+![Profile views](https://hits.sh/github.com/yourusername.svg?style=flat&label=Visitors)
 
 ---
 
