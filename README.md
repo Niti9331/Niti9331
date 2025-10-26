@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Nitisha Manglik</h1>
-<h3 align="center">🚀 Aspiring DevOps Engineer | Cloud | Automation | kubernetes | Continuous Delivery</h3>
+<h3 align="center">🚀 DevOps Engineer | Cloud Enthusiast | Automation | kubernetes | Continuous Delivery</h3>
 
 ---
 👩‍💻 About Me
