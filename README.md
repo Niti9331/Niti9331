@@ -6,9 +6,9 @@
 
 💡 Passionate about automating infrastructure, optimizing CI/CD pipelines, and building scalable cloud solutions.
 
-🌱 Currently learning: Kubernetes · Terraform · Docker · Python · Azure
+🌱 Currently learning: Terraform · Python · GCP · ArgoCD
 
-💬 Ask me about: CI/CD · Cloud Migration · Infrastructure as Code (IaC) · DevOps Practices
+💬 Ask me about: CI/CD · Cloud Migration · Kubernetes · AWS · Azure 
 
 📫 Reach me at: nitisha.manglik17@gmail.com
 
